@@ -185,7 +185,7 @@ export const CONTACT_METHODS_DATA: ContactMethod[] = [
 // Social Links
 export const SOCIAL_LINKS: SocialLink[] = [
   { id: 'github', name: 'GitHub', url: `https://github.com/${DEVELOPER_NAME.toLowerCase()}`, icon: <GithubIcon /> },
-  { id: 'linkedin', name: 'LinkedIn', url: `https://linkedin.com/in/${DEVELOPER_NAME.toLowerCase()}-dev`, icon: <LinkedinIcon /> },
+  { id: 'linkedin', name: 'LinkedIn', url: `https://linkedin.com/in/${DEVELOPER_NAME.toLowerCase()}`, icon: <LinkedinIcon /> },
 ];
 
 export const FOOTER_TEXT = `© ${new Date().getFullYear()} ${DEVELOPER_NAME}. All rights reserved.`;
