@@ -69,7 +69,7 @@ export const NAV_LINKS: NavLink[] = [
 // Developer Info
 export const DEVELOPER_NAME = "yousseftastift";
 export const DEVELOPER_TITLE = " Web Developer  ";
-export const PROFILE_IMAGE_URL = "/portfolio-youssef/images/Untitled design.png";
+export const PROFILE_IMAGE_URL = "https://avatars.githubusercontent.com/u/117593867?v=4";
 export const HERO_INTRO = "I build engaging and user-friendly web experiences with a passion for clean code and modern design.";
 
 // About Me
@@ -117,7 +117,7 @@ export const PROJECTS_DATA: Project[] = [
     id: 'project1',
     title: 'E-learning ',
     description: 'A responsive educational platform with interactive course pages, instructor profiles, and blog features — built using React, TypeScript, and Tailwind CSS.',
-    imageUrl: '/portfolio-youssef/images/Screenshot 2025-06-21 111729.png',
+    imageUrl: 'https://media.licdn.com/dms/image/v2/D5622AQEYrlOcoOtaEA/feedshare-shrink_2048_1536/B56ZedZsKuHEAw-/0/1750692449183?e=1753315200&v=beta&t=x68yqGxZ9q93jERZl-h5kXCXQzB48cVxadKhHwhc5Wg',
     tags: ['React', 'TypeScript', 'Tailwind CSS', 'Node.js'],
     liveUrl: `https://yousseftastift.github.io/e-learning/`,
     repoUrl: `https://github.com/yousseftastift/e-learning`,
@@ -127,7 +127,7 @@ export const PROJECTS_DATA: Project[] = [
     id: 'project2',
     title: 'restaurant website ',
     description: 'A sleek and modern restaurant site with menu display, online booking, and client testimonials — crafted with Next.js and Firebase.',
-    imageUrl: '/portfolio-youssef/images/Screenshot 2025-06-20 133721.png',
+    imageUrl: 'https://media.licdn.com/dms/image/v2/D5622AQFARU8Bw8WdDA/feedshare-shrink_2048_1536/B56ZedZsKyHUAo-/0/1750692448698?e=1753315200&v=beta&t=mE9OrzX47N2_UXtgWJDxARJKAoE_N-h2Z_mHLtL9WpY',
     tags: ['HTML5', 'CSS3', 'JavaScript', 'react', 'TypeScript'],
     liveUrl: 'https://yousseftastift.github.io/mon-restaurant/',
     repoUrl: 'https://github.com/yousseftastift/mon-restaurant',
@@ -137,7 +137,7 @@ export const PROJECTS_DATA: Project[] = [
     id: 'project3',
     title: 'E-commerce ',
     description: 'A stylish wellness e-commerce site offering curated products, built with React and Node.js, optimized for speed and mobile responsiveness.',
-    imageUrl: '/portfolio-youssef/images/Screenshot 2025-06-20 185716.png',
+    imageUrl: 'https://media.licdn.com/dms/image/v2/D5622AQHQb9_eA15EaA/feedshare-shrink_2048_1536/B56ZedZsLWHQAo-/0/1750692447678?e=1753315200&v=beta&t=96A1FSXCqGGBGgi_ie7vUOF11aA3JdzSvkgn3Gfz-G4',
     tags: ['HTML5', 'CSS3', 'JavaScript', 'react', 'TypeScript'],
     liveUrl: `https://yousseftastift.github.io/ecommerce-Pastel-Perfection/`,
     repoUrl: `https://github.com/yousseftastift/ecommerce-Pastel-Perfection`,
